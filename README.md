@@ -1,2 +1,2 @@
 # Instaflex-Website-Project
-Simple mock social media site used to share fitness results with friends
+Simple landing page for a social media site used to share fitness results with friends.
