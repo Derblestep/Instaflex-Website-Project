@@ -1,0 +1,125 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://s3.amazonaws.com/codecademy-content/projects/bootstrap.min.css">
+    <link rel="stylesheet" type= "text/css" href="InstaflexIndex.css">
+  </head>
+  <body>
+   
+    <div class="main">
+      <div class="container">
+        <h1>
+          Instaflex
+        </h1>
+        <h2>
+         Capture your progress
+        </h2>
+        <a href="https://cdn.pixabay.com/photo/2016/03/27/23/00/weight-lifting-1284616__340.jpg" class="download">Download Instaflex</a>
+      </div>
+    </div>
+
+    
+    <div class="section">
+      <div class="container">
+<div class="row">
+  <div class="col-md-6">
+<img src="https://images.pexels.com/photos/136405/pexels-photo-136405.jpeg?h=350&auto=compress" />
+  </div>
+  <div class="col-md-6">
+<h1>
+  Share
+    </h1>
+    <p>
+      Share your progress with the people who matter to you most. With Instaflex, it's easy to share your gains with the right people.
+    </p>
+  </div>
+</div>
+      </div>
+    </div>
+
+
+    <div class="section">
+      <div class="container">
+<div class="row">
+  <div class="col-md-6">
+<h1>
+  Explore 
+    </h1>
+    <p>
+      Explore progress from your friends and family. Instaflex makes it easy.
+    </p>
+  </div>
+  <div class="col-md-6">
+<img src="https://images.pexels.com/photos/27156/pexels-photo-27156.jpg?h=350&auto=compress&cs=tinysrgb"/>
+  </div>
+</div>
+      </div>
+    </div>
+
+    
+    <div class="section">
+      <div class="container">
+<div class="row">
+  <div class="col-md-6">
+<img src="https://images.pexels.com/photos/175947/pexels-photo-175947.jpeg?h=350&auto=compress&cs=tinysrgb" />
+  </div>
+  <div class="col-md-6">
+<h1>
+  Save
+    </h1>
+    <p>
+      Instaflex automatically saves your photos so you can show off your gains from anywhere.
+    </p>
+  </div>
+</div>
+      </div>
+    </div>
+
+    
+    <div class="store section container">
+      <h2>Available for iPhone, iPad, and Android.</h2>
+      <img src="https://s3.amazonaws.com/codecademy-content/projects/shutterbugg/app-store.png" width="185px" />
+      <img alt="Get it on Google Play" src="https://s3.amazonaws.com/codecademy-content/projects/shutterbugg/google-play.png" width="159px" />
+    </div>
+   
+    <!-- The footer div -->
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+  <div class="col-md-3">
+<h3>
+  Company
+    </h3>
+    <ul>
+      <li>Careers</li>
+      <li>Terms</li>
+      <li>Help</li>
+    </ul>
+  </div>
+  <div class="col-md-3">
+<h3>
+  Products
+    </h3>
+    <ul>
+      <li>Instaflex</li>
+      <li>Flexaid</li>
+      
+    </ul>
+  </div>
+  <div class="col-md-3">
+<h3>
+ News
+    </h3>
+    <ul>
+      <li>Blog</li>
+      <li>Twitter</li>
+      <li>YouTube</li>
+       <li>google+</li>
+      <li>Facebook</li>
+    </ul>
+  </div>
+</div>
+    </div>
+    </div>
+  </body>
+</html>
